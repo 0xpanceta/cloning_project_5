@@ -65,7 +65,7 @@ header {
     padding:2px;
     width:25%;
     max-width:400px;
-
+    border-radius: 10px;
 }
 
 .box-heading {
@@ -74,7 +74,9 @@ header {
 }
 
 h3.box-title {
-margin-left:4px;}
+    margin-left:4px;
+    color:white;
+}
 
 .cards-container {
     display:block;
@@ -159,6 +161,8 @@ i {
 .card-bottom {
     padding-left:4px;
     margin-top:5px;
+    color:antiquewhite;
+    margin-bottom:5px;
 }
 
 .bottom-scroller-full {
